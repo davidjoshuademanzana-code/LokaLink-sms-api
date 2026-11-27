@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/send-otp.js": { "memory": 128, "maxDuration": 10 },
+    "api/verify-otp.js": { "memory": 128, "maxDuration": 10 }
+  }
+}
